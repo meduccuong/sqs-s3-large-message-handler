@@ -5,7 +5,7 @@
 
 
 .terraform*
-terraform.tfstate
+terraform.tfstate*
 # User-specific files
 *.rsuser
 *.suo
